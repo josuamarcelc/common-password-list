@@ -10,3 +10,13 @@ Kali Linux is an open source project that is maintained and funded by Offensive 
 
 ## Inspiration
 This Dataset was upload to aid in studying MD5 hash decryption using Neural Networks.
+
+
+## Update 2025 Raw File:
+
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_00.txt
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_01.txt
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_02.txt
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_03.txt
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_04.txt
+- https://github.com/josuamarcelc/common-password-list/raw/refs/heads/main/rockyou_2025_05.txt
